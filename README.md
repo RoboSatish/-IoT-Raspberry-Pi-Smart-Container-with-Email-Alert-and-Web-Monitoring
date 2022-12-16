@@ -1,1 +1,3 @@
 # -IoT-Raspberry-Pi-Smart-Container-with-Email-Alert-and-Web-Monitoring
+
+By building a Raspberry Pi Smart Container using Load Cell and HX711 Weight Sensor. This Smart Container can tell us about its status like whether it is full or empty, by sending a mail to our Email ID. We can also monitor the weight of container in real time using web browser, and that’s make it a IoT project where you can monitor your container from anywhere using internet. Here the weight of the container will be updated in every 5 seconds on the web browser, this duration can be easily changed in HTML code file. We have set the threshold weight value of 300 gram to send the email about that “Container is Full”, this limit can also be changed.
